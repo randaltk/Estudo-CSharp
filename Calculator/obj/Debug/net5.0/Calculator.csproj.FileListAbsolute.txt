@@ -1,0 +1,16 @@
+/home/randaltk/repos/estudo-c#/Calculator/bin/Debug/net5.0/Calculator
+/home/randaltk/repos/estudo-c#/Calculator/bin/Debug/net5.0/Calculator.deps.json
+/home/randaltk/repos/estudo-c#/Calculator/bin/Debug/net5.0/Calculator.runtimeconfig.json
+/home/randaltk/repos/estudo-c#/Calculator/bin/Debug/net5.0/Calculator.runtimeconfig.dev.json
+/home/randaltk/repos/estudo-c#/Calculator/bin/Debug/net5.0/Calculator.dll
+/home/randaltk/repos/estudo-c#/Calculator/bin/Debug/net5.0/ref/Calculator.dll
+/home/randaltk/repos/estudo-c#/Calculator/bin/Debug/net5.0/Calculator.pdb
+/home/randaltk/repos/estudo-c#/Calculator/obj/Debug/net5.0/Calculator.csproj.AssemblyReference.cache
+/home/randaltk/repos/estudo-c#/Calculator/obj/Debug/net5.0/Calculator.GeneratedMSBuildEditorConfig.editorconfig
+/home/randaltk/repos/estudo-c#/Calculator/obj/Debug/net5.0/Calculator.AssemblyInfoInputs.cache
+/home/randaltk/repos/estudo-c#/Calculator/obj/Debug/net5.0/Calculator.AssemblyInfo.cs
+/home/randaltk/repos/estudo-c#/Calculator/obj/Debug/net5.0/Calculator.csproj.CoreCompileInputs.cache
+/home/randaltk/repos/estudo-c#/Calculator/obj/Debug/net5.0/Calculator.dll
+/home/randaltk/repos/estudo-c#/Calculator/obj/Debug/net5.0/ref/Calculator.dll
+/home/randaltk/repos/estudo-c#/Calculator/obj/Debug/net5.0/Calculator.pdb
+/home/randaltk/repos/estudo-c#/Calculator/obj/Debug/net5.0/Calculator.genruntimeconfig.cache
