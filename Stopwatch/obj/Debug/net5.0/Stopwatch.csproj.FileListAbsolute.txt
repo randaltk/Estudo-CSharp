@@ -1,0 +1,16 @@
+/home/randaltk/repos/estudo-c#/Stopwatch/bin/Debug/net5.0/Stopwatch
+/home/randaltk/repos/estudo-c#/Stopwatch/bin/Debug/net5.0/Stopwatch.deps.json
+/home/randaltk/repos/estudo-c#/Stopwatch/bin/Debug/net5.0/Stopwatch.runtimeconfig.json
+/home/randaltk/repos/estudo-c#/Stopwatch/bin/Debug/net5.0/Stopwatch.runtimeconfig.dev.json
+/home/randaltk/repos/estudo-c#/Stopwatch/bin/Debug/net5.0/Stopwatch.dll
+/home/randaltk/repos/estudo-c#/Stopwatch/bin/Debug/net5.0/ref/Stopwatch.dll
+/home/randaltk/repos/estudo-c#/Stopwatch/bin/Debug/net5.0/Stopwatch.pdb
+/home/randaltk/repos/estudo-c#/Stopwatch/obj/Debug/net5.0/Stopwatch.csproj.AssemblyReference.cache
+/home/randaltk/repos/estudo-c#/Stopwatch/obj/Debug/net5.0/Stopwatch.GeneratedMSBuildEditorConfig.editorconfig
+/home/randaltk/repos/estudo-c#/Stopwatch/obj/Debug/net5.0/Stopwatch.AssemblyInfoInputs.cache
+/home/randaltk/repos/estudo-c#/Stopwatch/obj/Debug/net5.0/Stopwatch.AssemblyInfo.cs
+/home/randaltk/repos/estudo-c#/Stopwatch/obj/Debug/net5.0/Stopwatch.csproj.CoreCompileInputs.cache
+/home/randaltk/repos/estudo-c#/Stopwatch/obj/Debug/net5.0/Stopwatch.dll
+/home/randaltk/repos/estudo-c#/Stopwatch/obj/Debug/net5.0/ref/Stopwatch.dll
+/home/randaltk/repos/estudo-c#/Stopwatch/obj/Debug/net5.0/Stopwatch.pdb
+/home/randaltk/repos/estudo-c#/Stopwatch/obj/Debug/net5.0/Stopwatch.genruntimeconfig.cache
